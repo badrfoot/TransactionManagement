@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS `db_tranmanagement`;
-CREATE DATABASE `db_tranmanagement`;
+DROP DATABASE IF EXISTS `db_tranManagement`;
+CREATE DATABASE `db_tranManagement`;
 
-USE `db_tranmanagement`;
+USE `db_tranManagement`;
 
 #
 # Table structure for table tb_criticism
